@@ -5,10 +5,10 @@
 * [x] media
 * [x] incluir bootstrap medio CDN
 
-## Navbar
+# Navbar
 * [x] navbar boostrap 
 
-## above the fold 
+# above the fold 
 * [x] img de fondo
 * [x] enlaces animados
 
@@ -36,5 +36,4 @@
 * [ ] gestionar el titulo desde movil
 
 ## Recursos
-
 * https://unsplash.com/es/s/fotos/space
